@@ -1,0 +1,70 @@
+.myimage{
+    padding-right: 170px;
+ }
+ .team{
+     margin-left: 100px;
+ }
+ .formargin{
+     padding-right: 70px;
+ }
+  
+ .send-block{
+     margin-left: 500px;
+ 
+ }
+ 
+ .img{
+     position: 200px;
+     width: 100%;
+ }
+     
+ .h1{
+     position: absolute;
+     top: 200px;
+     left: 0;
+     width: 100%
+ }
+ 
+ /*.{
+     padding: 0;
+     margin: 0;
+     font-family: sans-serif;
+ }
+ */
+ 
+     
+
+ 
+ .add-contact-list{
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%,-50%);
+ }
+ 
+ .background{
+    background: url(https://directlinedev.com/media/services/service/background/background_11_nQJIc9J.wide.jpeg) no-repeat;
+    background-size: cover;
+ }
+
+ strong{
+    margin-left: 70px;
+ }
+
+ .background-block{
+    background: url(https://www.searchmantrainc.com/wp-content/uploads/2015/04/Web-Development-Services-Image-BG.png) no-repeat;
+    background-size: cover;
+ }
+
+  
+ .background-web{
+    background: url(https://as1.ftcdn.net/v2/jpg/01/04/16/40/1000_F_104164065_A5DX80QGB5H45XpLdWK0V256mN4HcTgc.jpg) no-repeat;
+    background-size: cover;
+ }
+
+ .peru{
+    margin-right: -100px;
+ }
+
+ 
+ 
